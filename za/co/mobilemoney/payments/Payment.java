@@ -1,3 +1,7 @@
 public class Payment{
-private int paymentID;
+private int paymentId;
+
+public static void main(String [] args){
+
+}
 }
